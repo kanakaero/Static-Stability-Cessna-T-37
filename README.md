@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/kanakaero/Static-Stability-Cessna-T-37/assets/93387754/40b3b3af-0707-46b0-901d-29b1d53dbe8a">
+<p align="center">
+  <img src="https://github.com/kanakaero/Static-Stability-Cessna-T-37/assets/93387754/40b3b3af-0707-46b0-901d-29b1d53dbe8a">
+<p/>
 <br/>
 # Static Stability Analysis of the Cessna T-37
 
