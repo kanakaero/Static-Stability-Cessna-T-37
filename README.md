@@ -6,5 +6,5 @@
 # Static Stability Analysis of the Cessna T-37
 
 <p align="justify">
-I carried out a detailed static stability analysis of the Cessna T-37 as a part of my coursework in the academic year 2023-24 (Flight Dynamics - FD) at the Manipal Institute of Technology, Manipal, Karnataka, India. This repository corresponds to this project.
+Carried out a detailed static stability analysis of the Cessna T-37 as a part of my coursework in the academic year 2023-24 (Flight Dynamics - FD) at the Manipal Institute of Technology, Manipal, Karnataka, India. This repository corresponds to this project.
 <p/>
